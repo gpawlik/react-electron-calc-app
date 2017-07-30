@@ -2,11 +2,11 @@
   "name": "ReactDesktopCalculator",
   "version": "1.0.0",
   "description": "A desktop-based calculator built using React and Electron",
-  "author": "Reuben Stone - http://reubenstone.co.uk",
+  "author": "Grzegorz Pawlik",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/reuben-stone/react-desktop-calculator-app"
+    "url": "https://github.com/gpawlik/react-electron-calc-app"
   },
   "homepage": "",
   "keywords": [
